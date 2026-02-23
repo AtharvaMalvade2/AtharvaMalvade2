@@ -7,7 +7,7 @@
 💬 Ask me about Java or anything tech-related!<br>
 😄 Pronouns: he/him<br><br>
 
-<a href="https://atharvamalvade2.github.io/Atharva-Portfolio/" target="_blank">
+<a href="https://atharvamalvade2.github.io/Atharva-Portfolio/">
   <img src="https://img.shields.io/badge/🌍%20Portfolio-Visit-blue?style=flat&logo=google-chrome" />
 </a>
 
