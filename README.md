@@ -1,9 +1,15 @@
 <h1 align="center"> Hi 👋, I'm Atharva Malvade</h1>
 
 <h1 align="left"> 💫 About Me:</h1>
- 
-🌱 I’m currently learning Java Full Stack and DSA<br>📫 How to reach me: arth3134@gmail.com or www.linkedin.com/in/atharva-malvade<br>💬 Ask me about Java or anything tech-related!<br>😄 Pronouns: he/him<br><br>
 
+🌱 I’m currently learning Java Full Stack and DSA<br>
+📫 How to reach me: arth3134@gmail.com or www.linkedin.com/in/atharva-malvade<br>
+💬 Ask me about Java or anything tech-related!<br>
+😄 Pronouns: he/him<br><br>
+
+<a href="https://atharvamalvade2.github.io/Atharva-Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌍%20Portfolio-Visit-blue?style=flat&logo=google-chrome" />
+</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharva.malvade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-malvade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arth3134@gmail.com) 
