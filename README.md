@@ -2,8 +2,8 @@
 
 <h1 align="left"> 💫 About Me:</h1>
 
-🌱 I’m currently learning Java Full Stack and DSA<br>
-📫 How to reach me: arth3134@gmail.com or www.linkedin.com/in/atharva-malvade<br>
+🌱 I’m currently learning Java Full Stack, DSA and exploring Gen AI<br>
+📫 How to reach me: arth3134@gmail.com, atharvamalvade1@gmail.com or www.linkedin.com/in/atharva-malvade<br>
 💬 Ask me about Java or anything tech-related!<br>
 😄 Pronouns: he/him<br><br>
 
